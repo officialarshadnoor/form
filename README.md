@@ -4,4 +4,4 @@ Form Validation using Javascript
 
 Here's a demo of my project in action:
 
-![Screenshot](Screenshot.gif)
+![Screenshot](javascript form.gif)
